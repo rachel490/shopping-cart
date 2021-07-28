@@ -3,6 +3,8 @@
 - shopping item 추가
 - shopping item 삭제
 
+![shoppingCart-text](https://user-images.githubusercontent.com/72786354/127321939-eb95c9ac-2ac3-41bd-a6f1-994d2bd2555b.gif)
+
 -------------------------------------------------
 
 ## 2. UI
